@@ -1,1 +1,1 @@
-Pastamreferentes às aulas de iniciação a programação
+Pastas referentes às aulas de iniciação a programação
